@@ -1,0 +1,509 @@
+body
+{
+    background: #FFFFFF url('images/page.jpeg') top center no-repeat scroll;
+    margin: 0 auto;
+    font-size: 12px;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: justify;
+    position: relative;
+    width: 100%;
+    min-height: 100%;
+    left: 0;
+    top: 0;
+    cursor: default;
+    overflow: hidden;
+}
+
+table
+{
+    font-size: 12px;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    text-align: left;
+}
+
+body, li, table, a, a:link, a:visited, a.visited, a:hover, a.hovered
+{
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    line-height: 150%;
+}
+
+p
+{
+    margin: 12px 0;
+}
+
+h1, h1 a, h1 a:link, h1 a:visited, h1 a:hover, h2, h2 a, h2 a:link, h2 a:visited, h2 a:hover, h3, h3 a, h3 a:link, h3 a:visited, h3 a:hover, h4, h4 a, h4 a:link, h4 a:visited, h4 a:hover, h5, h5 a, h5 a:link, h5 a:visited, h5 a:hover, h6, h6 a, h6 a:link, h6 a:visited, h6 a:hover
+{
+    font-size: 28px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+a, a:link
+{
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    text-decoration: none;
+    color: #89BCE6;
+}
+
+a:visited, a.visited
+{
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    text-decoration: underline;
+    color: #89BCE6;
+}
+
+a:hover, a.hover
+{
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    text-decoration: underline;
+    color: #8DBFE7;
+}
+
+h1
+{
+    color: #808080;
+    margin: 0 0 10px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 100%;
+}
+
+h1 a, h1 a:link, h1 a:hover, h1 a:visited
+{
+    font-size: 28px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 100%;
+}
+
+h2
+{
+    color: #9C9C9C;
+    margin: 10px 0 20px;
+    font-size: 26px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+h2 a, h2 a:link, h2 a:hover, h2 a:visited
+{
+    font-size: 26px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+h3
+{
+    color: #2D88D2;
+    margin: 0 0 10px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 125%;
+}
+
+h3 a, h3 a:link, h3 a:hover, h3 a:visited
+{
+    font-size: 22px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 125%;
+}
+
+h4
+{
+    color: #398FD5;
+    margin: 15px 0 -5px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+h4 a, h4 a:link, h4 a:hover, h4 a:visited
+{
+    font-size: 18px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+h5
+{
+    color: #256FAD;
+    margin: 0 0 10px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 125%;
+}
+
+h5 a, h5 a:link, h5 a:hover, h5 a:visited
+{
+    font-size: 24px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    line-height: 125%;
+}
+
+h6
+{
+    color: #B8B8B8;
+    margin: 7px 0 2px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+h6 a, h6 a:link, h6 a:hover, h6 a:visited
+{
+    font-size: 14px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+}
+
+header, footer, nav
+{
+    -webkit-background-origin: border !important;
+    -moz-background-origin: border !important;
+    background-origin: border-box !important;
+}
+
+header, footer, nav
+{
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+ol
+{
+    list-style-position: inside;
+}
+
+html, body
+{
+    height: 100%;
+}
+
+/**
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ * https://github.com/necolas/normalize.css
+ */
+
+html
+{
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body
+{
+    padding: 0;
+    margin: 0;
+    min-width: 1000px;
+    color: #404040;
+}
+
+.clearfix:after
+{
+    clear: both;
+    font: 0/0 serif;
+    display: block;
+    content: " ";
+}
+
+form
+{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+table.position
+{
+    position: relative;
+    width: 100%;
+    table-layout: fixed;
+}
+
+li h1, li h1
+{
+    margin: 1px;
+}
+
+li h2, li h2
+{
+    margin: 1px;
+}
+
+li h3, li h3
+{
+    margin: 1px;
+}
+
+li h4, li h4
+{
+    margin: 1px;
+}
+
+li h5, li h5
+{
+    margin: 1px;
+}
+
+li h6, li h6
+{
+    margin: 1px;
+}
+
+li p, li p
+{
+    margin: 1px;
+}
+
+input, select, textarea
+{
+    vertical-align: middle;
+    font-size: 13px;
+    font-family: 'Times New Roman', Georgia, Times, Serif;
+}
+
+input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="number"], input[type="range"], input[type="tel"], input[type="time"], input[type="week"], textarea
+{
+    background: #F9FAFB;
+    border: 1px solid rgba(108, 172, 224, 0.2);
+    margin: 0 auto;
+}
+
+input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="color"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="number"], input[type="range"], input[type="tel"], input[type="time"], input[type="week"], textarea
+{
+    width: auto;
+    padding: 8px 0;
+    color: #154165 !important;
+    font-size: 13px;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: normal;
+    text-shadow: none;
+}
+
+a img
+{
+    border: 0;
+}
+
+body img
+{
+    margin: 0 0 0 0;
+}
+
+body table
+{
+    border-collapse: collapse;
+    margin: 1px;
+}
+
+body th, body td
+{
+    padding: 2px;
+    vertical-align: top;
+    text-align: left;
+}
+
+body th
+{
+    text-align: center;
+    vertical-align: middle;
+    padding: 7px;
+}
+
+pre
+{
+    overflow: auto;
+    padding: 0.1em;
+}
+
+.image-caption-wrapper
+{
+    padding: 0 0 0 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.image-caption-wrapper img
+{
+    margin: 0 !important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.image-caption-wrapper p
+{
+    font-size: 80%;
+    text-align: right;
+    margin: 0;
+}
+
+ul>li:before
+{
+    content: url('images/postbullets.png');
+    margin-right: 15px;
+    bottom: 2px;
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0;
+    line-height: 0;
+}
+
+.opera  ul>li:before
+{
+    bottom: 0;
+}
+
+li
+{
+    font-size: 12px;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    line-height: 200%;
+    color: #141414;
+    margin: 0 0 0 9px;
+}
+
+ul>li, ol
+{
+    padding: 0;
+}
+
+ul>li
+{
+    padding-left: 23px;
+}
+
+ul>li:before
+{
+    margin-left: -23px;
+}
+
+ol, ul
+{
+    margin: 1em 0 1em 9px;
+}
+
+li ol, li ul
+{
+    margin: 0.5em 0 0.5em 9px;
+}
+
+li
+{
+    margin: 0 0 0 0;
+}
+
+ol>li
+{
+    overflow: visible;
+}
+
+ul>li
+{
+    overflow-x: visible;
+    overflow-y: hidden;
+}
+
+blockquote
+{
+    background: #949494 url('images/postquote.png') no-repeat scroll;
+    border: 1px solid #7A7A7A;
+    padding: 6px 6px 6px 43px;
+    margin: 10px 10px 10px 50px;
+    color: #080808;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+    overflow: auto;
+    clear: both;
+}
+
+blockquote a, blockquote a, blockquote a:link, blockquote a:link, blockquote a:visited, blockquote a:visited, blockquote a:hover, blockquote a:hover
+{
+    color: #080808;
+    font-family: Arial, 'Arial Unicode MS', Helvetica, Sans-Serif;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+}
+
+blockquote p, blockquote p
+{
+    margin: 0;
+    margin: 2px 0 2px 15px;
+}
+
+body
+{
+    overflow: auto !important;
+}
+
+li.cke_panel_listItem
+{
+	padding-left: 0;
+}
+
+li.cke_panel_listItem:before
+{
+	content: none;
+}

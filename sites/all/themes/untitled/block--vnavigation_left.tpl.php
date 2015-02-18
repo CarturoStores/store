@@ -1,0 +1,1 @@
+<div class="<?php if (isset($classes)) print $classes; ?>" id="<?php print $block_html_id; ?>"<?php print $attributes; ?>><?php echo untitled_art_vmenu_output(isset($block->subject) ? $block->subject : '', isset($content) ? $content : '');?></div>
